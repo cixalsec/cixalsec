@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm CIXAL
 
-<!--
-**cixalsec/cixalsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer & Ethical Hacker  
+🔐 Focus: Web Security, Automation Tools  
+🚀 Building scalable & secure systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Projects
+- 🔐 Web Security Scanner
+- ⚡ Automation Tools
+- 🌐 SaaS Monitoring System
+
+---
+
+## 📫 Contact
+- Email: alexabad2017@gmail.com
