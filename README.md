@@ -14,7 +14,7 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=cixalsec&show_icons=true&theme=tokyonight)
 
 ---
 
